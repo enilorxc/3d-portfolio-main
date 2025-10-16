@@ -60,7 +60,7 @@ const Hero = () => {
             {/* CTA */}
             <div className="hero-cta flex items-center gap-4">
               <Button
-                text="Projects"
+                text="See my work"
                 className="md:w-80 md:h-16 w-60 h-12"
                 targetId="work"
               />

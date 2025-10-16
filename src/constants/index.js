@@ -92,7 +92,7 @@ const techStackIcons = [
 
 const expCards = [
   {
-    review: "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+    review: "Caroline has a rare combination of technical precision and initiative — she automated workflows that most people thought couldn’t be improved, and always made complex problems feel simple for the team.",
     imgPath: "/images/Loblaw_Companies_Limited_logo_EN.svg",
     logoPath: "/images/Loblaw_Companies_Limited_logo.svg.png",
     title: "Data Engineer",
@@ -106,7 +106,7 @@ const expCards = [
     ],
   },
   {
-    review: "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+    review: "Caroline led our team with clarity and confidence. She kept everyone aligned under Agile, made tough calls when needed, and was the reason our projects were delivered smoothly and on time.",
     imgPath: "/images/techforsocialimpact_logo-removebg-preview.png",
     logoPath: "/images/techforsocialimpact_logo-removebg-preview.png",
     title: "Software Development Project Lead",
@@ -119,7 +119,7 @@ const expCards = [
     ],
   },
   {
-    review: "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
+    review: "Caroline was the teammate everyone wanted to work with — fast, reliable, and always two steps ahead. Her code reviews were thoughtful, and her React and API work pushed our product to the next level.",
     imgPath: "/images/de6922_f9c67e490a9b4992a728ce3627c783a8_mv2-removebg-preview-removebg-preview.png",
     logoPath: "/images/promed_ai_logo-removebg-preview.png",
     title: "Full Stack Developer",
